@@ -7,4 +7,4 @@ jobs:
       - name: Print greeting
         run: echo "Привет лентяй"
       - name: Say good bye
-        run: "See you later"
+        run: See you later
